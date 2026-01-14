@@ -74,9 +74,6 @@ Warmly welcome contributions from the community and are excited to see your inte
 - Experiment with other classification algorithms, such as decision trees or random forests, to enhance accuracy.
 
 
-## Contact Your Name - chayut.deekongsieng@students.mq.edu.au
-
-
 
 ```python
 
